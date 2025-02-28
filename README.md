@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantouisyummy&label=Profile%20views&color=0e75b6&style=flat" alt="mantouisyummy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mantouisyummy" alt="mantouisyummy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mantouisyummy&row=2&column=3" alt="mantouisyummy" /></a> </p>
 
 - 🌱 I’m currently learning **Rust, Frontend**
 
